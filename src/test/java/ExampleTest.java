@@ -5,5 +5,5 @@ public class ExampleTest {
     @Test
     public void testAlwaysPass() {
         assertTrue(true);
-    }
+     }
 }
